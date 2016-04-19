@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">天气通</string>
+    <string name="city">城市：</string>
+    <string name="temp">\n温度：</string>
+    <string name="wd">\n风向：</string>
+    <string name="advice">\n着装建议：</string>
+    <string name="sd">\n湿度：</string>
+    <string name="time">\n发布时间：</string>
+</resources>
